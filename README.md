@@ -17,5 +17,5 @@ To classify skin cancer using skin lesions images. To achieve higher accuracy an
 <img width="433" alt="image" src="https://user-images.githubusercontent.com/45952122/207709278-ff9d83e6-6e3c-48d8-af68-86bc85eb35c8.png">
 <HR>
 
-<b> What we are used to build an create the machine learning model</b>
+<b> What we used to build and create the machine learning model</b>
 ![0_yz4OzmTYGW6M-UKV](https://user-images.githubusercontent.com/45952122/207710173-fb07c471-248c-4225-a5c6-8b1747442ede.jpg)
